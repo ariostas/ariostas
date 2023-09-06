@@ -1,3 +1,9 @@
-I am a theoretical physicist and computational scientist who will soon graduate with a PhD in Physics from Cornell University. My work in graduate school has revolved around exploring solutions of String Theory using computational algebraic geometry. I have developed powerful new algorithms to perform computations exponentially faster than with existing mathematical software. All of these advancements are now available in the open-source package CYTools, which I created in an effort to drive progress in the field. This package has allowed unprecedentedly complex constructions and is now being used by multiple groups around the world.
+I am a Research Software Engineer at Princeton University, working with the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP). I focus on developing tools needed to tackle the challenges posed by the high volume and complexity of the data that will be collected at the High Luminosity Large Hadron Collider (HL-LHC) at CERN and other future HEP experiments.
 
-I am now seeking to leverage my expertise in a new field. I am interested in solving difficult problems and tackling the biggest computational challenges. My Physics and Mathematics background allows me to have a deep understanding of the underlying data and exploit mathematical structures to engineer exceptional algorithms. I hope to continue making outstanding computational contributions as I did in String Theory.
+Current projects:
+
+- [Line Segment Tracking (LST)](https://github.com/SegmentLinking/TrackLooper): I am collaborating with a team of researchers in the CMS Collaboration to develop a highly parallelizable algorithm to reconstruct tracks from particle collisions. The aim of the project is to replace current CPU algorithms with a new one that runs on GPUs and can keep up with the high complexity of the data that will be collected at the High Luminosity Large Hadron Collider (HL-LHC).
+
+Past projects:
+
+- [CYTools](https://cy.tools): I co-developed this package during my PhD at Cornell, with the aim of gathering and improving the best computational tools in string phenomenology. I developed multiple novel algorithms, achieving exponentially better performance compared to standard mathematical software. This package is still in active development and is being used by multiple research groups.
